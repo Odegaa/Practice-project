@@ -39,6 +39,18 @@ The system features a strict permission model based on user roles:
 
 ---
 
+## 📩 Contact & Support
+If you have any questions or want to connect, feel free to reach out:
+
+* **Developer:** odegaa
+* **Email:** odegaa0202@gmail.com
+* **Telegram:** @odegaa (https://t.me/odegaa)
+* **LinkedIn:** Ruslan Kazakbaev (https://linkedin.com/in/odegaa)
+* **Docker Hub:** [https://hub.docker.com/u/odegaa](https://hub.docker.com/repositories/odegaa)
+* **GitHub:** [https://github.com/Odegaa]
+
+---
+
 ## 🚀 Quick Start (via Docker)
 
 Ensure you have Docker installed, then run the following commands:
@@ -70,14 +82,3 @@ The system can be configured using the following environment variables:
  - SPRING_DATASOURCE_USERNAME: Database username.
  - SPRING_DATASOURCE_PASSWORD: Database password.
  - JWT_SECRET_KEY: Custom secret key for token signing.
-
-## 📩 Contact & Support
-If you have any questions or want to connect, feel free to reach out:
-
-* **Developer:** odegaa
-* **Email:** odegaa0202@gmail.com
-* **Telegram:** @odegaa (https://t.me/odegaa)
-* **LinkedIn:** Ruslan Kazakbaev (https://linkedin.com/in/odegaa)
-* **Docker Hub:** [https://hub.docker.com/u/odegaa](https://hub.docker.com/repositories/odegaa)
-* **GitHub:** [https://github.com/Odegaa]
-
